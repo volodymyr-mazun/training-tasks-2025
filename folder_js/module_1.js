@@ -1,3 +1,6 @@
+
+//=============== ЗМІНІ ===============
+
 //Створи дві змінні firstName і lastName. Присвой їм своє ім'я та прізвище.
 //Обєднай ці два рядки в один, з пробілом між ними. Запиши результат в змінну fullName.
 
@@ -72,3 +75,5 @@
 // const defenceBots = 50;
 // const message = companyName + `has ${repairBots} bots in stock ${defenceBots}`;
 // console.log(message);
+
+
