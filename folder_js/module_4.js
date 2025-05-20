@@ -82,14 +82,15 @@
 // Напиши функцію, яка приймає рядок та повертає рядок де кожен другий символ у верхньому регістрі
 // const str = 'hello world';
 
-// function createStr(str) {
+// function returnStr(str) {
 //     let newStr = '';
 //     for (let i = 0; i < str.length; i++) {
-//         newStr += str[i].toUpperCase();
+//         newStr += (str[i]).toUpperCase();
 //     }
 //     return newStr;
 // }
-// console.log(createStr(str));
+
+// console.log(returnStr('hello world'));
 //==============================================================================================================================================
 // Напиши функцію getString(str1, str2, count). Функція повинна додати str2 до рядочка str1 стільки разів скільки вказали у параметрі count.
 
@@ -100,4 +101,5 @@
 //     }
 //     return result;
 // }
-// console.log(getString("Hell", "World", 4));
+// console.log(getString('Good Morning ', '!', 5));
+//==============================================================================================================================================
